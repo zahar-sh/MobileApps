@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/main_fragment">
+
+
+    <fragment
+        android:id="@+id/main_fragment"
+        android:name="com.example.calmness.fragment.MainFragment"
+        android:label="Main_fragment" />
+    <fragment
+        android:id="@+id/profile_fragment"
+        android:name="com.example.calmness.fragment.ProfileFragment"
+        android:label="Profile_fragment" />
+    <fragment
+        android:id="@+id/horoscope_fragment"
+        android:name="com.example.calmness.fragment.HoroscopeFragment"
+        android:label="Horoscope_fragment" />
+    <fragment
+        android:id="@+id/setting_fragment"
+        android:name="com.example.calmness.fragment.SettingFragment"
+        android:label="Setting_fragment" />
+</navigation>

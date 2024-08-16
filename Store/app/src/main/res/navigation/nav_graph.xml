@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/aboutFragment">
+    <fragment
+        android:id="@+id/mainFragment"
+        android:name="com.example.store.fragment.MainFragment"
+        android:label="main_fragment"
+        tools:layout="@layout/main_fragment" />
+    <fragment
+        android:id="@+id/infoFragment"
+        android:name="com.example.store.fragment.InfoFragment"
+        android:label="InfoFragment" />
+    <fragment
+        android:id="@+id/historyFragment"
+        android:name="com.example.store.fragment.HistoryFragment"
+        android:label="HistoryFragment" />
+    <fragment
+        android:id="@+id/webFragment"
+        android:name="com.example.store.fragment.WebFragment"
+        android:label="WebFragment" />
+    <fragment
+        android:id="@+id/aboutFragment"
+        android:name="com.example.store.fragment.AboutFragment"
+        android:label="AboutFragment" />
+    <fragment
+        android:id="@+id/profileFragment"
+        android:name="com.example.store.fragment.ProfileFragment"
+        android:label="ProfileFragment" />
+</navigation>

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Store/app/src/main/res/layout/about_fragment.xml" value="0.35144927536231885" />
+        <entry key="..\:/Store/app/src/main/res/layout/fragment_about.xml" value="0.35144927536231885" />
+        <entry key="..\:/Store/app/src/main/res/layout/history_fragment.xml" value="0.3177083333333333" />
+        <entry key="..\:/Store/app/src/main/res/layout/historyitem_recycler.xml" value="0.24010416666666667" />
+        <entry key="..\:/Store/app/src/main/res/layout/info_fragment.xml" value="0.35643115942028986" />
+        <entry key="..\:/Store/app/src/main/res/layout/item_recycler.xml" value="0.20520833333333333" />
+        <entry key="..\:/Store/app/src/main/res/layout/main_activity.xml" value="0.2957427536231884" />
+        <entry key="..\:/Store/app/src/main/res/layout/main_fragment.xml" value="0.2957427536231884" />
+        <entry key="..\:/Store/app/src/main/res/layout/profile_fragment.xml" value="0.35144927536231885" />
+        <entry key="..\:/Store/app/src/main/res/layout/profilr_fragment.xml" value="0.35144927536231885" />
+        <entry key="..\:/Store/app/src/main/res/layout/recfragment.xml" value="0.27395833333333336" />
+        <entry key="..\:/Store/app/src/main/res/layout/search_fragment.xml" value="0.2957427536231884" />
+        <entry key="..\:/Store/app/src/main/res/layout/text.xml" value="0.2957427536231884" />
+        <entry key="..\:/Store/app/src/main/res/layout/web_fragment.xml" value="0.35643115942028986" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/about_fragment.xml" value="0.264" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/history_fragment.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/historyitem_recycler.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/info_fragment.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/item_recycler.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/main_activity.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/main_fragment.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/profile_fragment.xml" value="0.24547101449275363" />
+        <entry key="..\:/Users/Zahar/StudioProjects/Store/app/src/main/res/layout/web_fragment.xml" value="0.24547101449275363" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

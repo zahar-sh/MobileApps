@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/cat_food_hearts_icon_1"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/nav_about_dev"
+            android:icon="@android:drawable/ic_dialog_dialer"
+            android:title="@string/menu_statistic" />
+        <item
+            android:id="@+id/nav_gallery"
+            android:icon="@android:drawable/ic_menu_info_details"
+            android:title="@string/menu_about_dev" />
+    </group>
+</menu>
